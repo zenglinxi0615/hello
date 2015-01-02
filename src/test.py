@@ -1,4 +1,5 @@
 #!/bin/env python
 
 print 'hello, world!'
-print 'test git, haha'
+print 'new change'
+print 'new change 02'
